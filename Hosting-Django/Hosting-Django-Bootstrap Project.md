@@ -112,8 +112,8 @@
             </tr>
         </tbody>
     </table>
-    <p>Note : IPv6 and Server IP are available on hostinger website. just login the hostinger and click on VPS server manage button and directly you see the ip address and click on ssh u will see the IPv6 id.. </p>
-    <p>Note: <a href="https://dnschecker.org/"> DNS Checker </a> Click on the link DNS Checker and at the first input we have to type our domain name if domain show our IP address the all ok ..... </p>
+    <p><strong>Note :</strong> IPv6 and Server IP are available on hostinger website. just login the hostinger and click on VPS server manage button and directly you see the ip address and click on ssh u will see the IPv6 id.. </p>
+    <p><strong>Note :</strong> <a href="https://dnschecker.org/"> DNS Checker </a> Click on the link DNS Checker and at the first input we have to type our domain name if domain show our IP address the all ok ..... </p>
 
   
 </ol>
