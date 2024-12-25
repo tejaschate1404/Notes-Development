@@ -28,16 +28,16 @@
 <h4>5} RankBrain </h4>
 <p><strong>Hazards: </strong> Lack of query-specific relevance; shallow content; poor UX. </p>
 <p>if you are working with any keyword then content must be related with the keyword and add important content and use best UX </p>
-
+<hr>
 <h4>6} Medic </h4>
 <p><strong>Hazards: </strong>  Lack of authority on YMYL websites; weak E-A-T signals. </p>
 <p>Education finance website need the verification from google or other some of the Expertise authority trust. </p>
-
+<hr>
 <h4>7} Bert </h4>
 <p><strong>Hazards: </strong>  Poorly written content; lack of focus; lack of context. </p>
 <p>We have to writing meaning full content. </p>
 
-
+<hr>
 <h4>8} Core Updates </h4>
 <p><strong>Hazards: </strong>  Poorly written content; lack of focus; lack of context. </p>
 <p>As far back as 2017, Google has started to refer to bigger updates as Google core updates. Since then, there is even less transparency about what those updates are and which parts of search they are intended to improve. SEOs would often track post-update ranking shifts and try to figure out what exactly has changed, but there is rarely a conclusive observation.  </p>
