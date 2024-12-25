@@ -28,7 +28,7 @@
 
 <hr>
 <hr>
-<h3>How to upload new files on github with vscode</h3>
+<h3>How to upload new files on github with vscode or local WorkFlow</h3>
 <ol>
   <li><strong>git init</strong> =========  initialize the git </li>
    <li><strong>git add .</strong> =========  files go on staged stage </li>
@@ -41,4 +41,46 @@
    <li><strong>git push origin main </strong> =========  push the code in github </li>
    <li><strong>git push -u origin main </strong> =========  to set we have to use main branch most of time so simple <strong> git push </strong> will push the code </li>
    
+</ol>
+
+
+<hr>
+<hr>
+<h3>Git Branch</h3>
+<ol>
+  <li><strong>git branch </strong> ======== check the branch</li>
+  <li><strong>git checkout -b branch_name </strong> ======== to create new branch on github </li>
+  <li><strong>git checkout branch_name </strong> ======== navigate from one branch to the another branch </li>
+   <li><strong>git checkout -d branch_name </strong> ======== to delete branch on github <strong>if you are working on the same branch then this command is not working so shift to another branch to delete this branch</strong> </li>
+   <li>Note : if you changing the branch and commite changes then this changes visible only when this branch is working or you checkout the branch </li>
+    <li><strong>git push origin branch_name  </strong> ======== this command used to push changed code on github </li>
+  
+  
+</ol>
+
+<hr>
+<hr>
+
+<h3>Git Merge</h3>
+<h6> there are 2 way to merge branch one is and git pull option that are available on github or other is command line option</h6>
+
+<ol>
+  <li><strong>git pull origin main </strong> ======== this command used to fetch changes that are happen on github after merging the code </li>
+  <li><strong>git diff main </strong> ======== to check the diff availbale in branch with main </li>
+  <li><strong>git merge main </strong> ======== merge branch code with the main </li>
+  <li>if conflict happen in our file then edit the file as show by vs code </li>
+  
+  
+</ol>
+
+
+<h3>Un Doing Changes </h3>
+
+<ol>
+  <li><strong>git pull origin main </strong> ======== this command used to fetch changes that are happen on github after merging the code </li>
+  <li><strong>git diff main </strong> ======== to check the diff availbale in branch with main </li>
+  <li><strong>git merge main </strong> ======== merge branch code with the main </li>
+  <li>if conflict happen in our file then edit the file as show by vs code </li>
+  
+  
 </ol>
