@@ -41,3 +41,7 @@
 <h4>8} Core Updates </h4>
 <p><strong>Hazards: </strong>  Poorly written content; lack of focus; lack of context. </p>
 <p>As far back as 2017, Google has started to refer to bigger updates as Google core updates. Since then, there is even less transparency about what those updates are and which parts of search they are intended to improve. SEOs would often track post-update ranking shifts and try to figure out what exactly has changed, but there is rarely a conclusive observation.  </p>
+
+<hr><hr><hr>
+<h2>For Brief Use Bello Links </h2>
+<a href="https://searchengineland.com/8-major-google-algorithm-updates-explained-282627">Link1</a>
