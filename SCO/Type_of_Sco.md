@@ -10,3 +10,6 @@
 <hr>
 website need to check sco check with any website of sco checker such as https://www.seobility.net/en/seocheck/ <a href="https://www.seobility.net/en/seocheck/">link </a>
 <p>website must have more than 75 score</p>
+
+<h2>Google Analytics </h2>
+<p> to check our website performance viewer we have to use google analytics <a href="https://marketingplatform.google.com/about/analytics/">link</a> </p>
