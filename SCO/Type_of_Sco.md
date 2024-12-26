@@ -5,3 +5,8 @@
 <p>Improving a website's ranking by building external credibility through backlinks and social signals</p>
 <h2>3 }Technical SEO: </h2>
 <p> Improving a website's technical aspects, such as site speed, crawlability, and mobile-friendliness </p>
+
+<hr>
+<hr>
+website need to check sco check with any website of sco checker such as https://www.seobility.net/en/seocheck/ <a href="https://www.seobility.net/en/seocheck/">link </a>
+<p>website must have more than 75 score</p>
