@@ -5,24 +5,24 @@ This repository contains the basic setup for user authentication (Signup, Login,
 ## Settings
 
 ```python
-<p> add in setting file </p>
+add in setting file 
 LOGIN_URL = "/authe/login/"  # Redirect here if login is required
 LOGIN_REDIRECT_URL = "/authe/home/"  # Redirect here after successful login
 LOGOUT_REDIRECT_URL = "/authe/login/"  # Redirect here after logout
 SESSION_ENGINE = "django.contrib.sessions.backends.db"
 
 
-<div>
+
 from django.shortcuts import render, redirect
 from django.contrib.auth.models import User
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.decorators import login_required
 from django.contrib import messages
 
-</div>
+
 # Signup View
 
-<div>
+
 def signup_view(request):
     if request.method == "POST":
         username = request.POST.get("username")
@@ -49,9 +49,9 @@ def signup_view(request):
 
     return render(request, "authSession/signup.html")
 
-</div>
+
 # Login View
-<div>
+
 def login_view(request):
     if request.method == "POST":
         username = request.POST.get("username")
@@ -69,19 +69,18 @@ def login_view(request):
 
     return render(request, "authSession/login.html")
 
-</div>
-<div>
+
 # Logout View
 def logout_view(request):
     logout(request)
     messages.success(request, "You have been logged out.")
     return redirect("login")
-</div>
 
 
-<div>
+
+
 # Home View (Protected)
 @login_required
 def home_view(request):
     return render(request, "authSession/home.html")
-</div>
+
