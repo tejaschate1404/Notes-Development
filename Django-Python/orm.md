@@ -125,4 +125,11 @@ records = Model.objects.filter(Q(field1=value) | Q(field2=value2))</code></pre>
             <p><strong>Update an existing record, or create a new one if it doesn’t exist:</strong></p>
             <pre><code>record, created = Model.objects.update_or_create(field=value, defaults={'field2': value2})</code></pre>
         </div>
+        <div class="mt-4">
+            <h4>Update or Return Instance (add multiple condition)</h4>
+            <p><strong>Using or operator we have to add multiple conditon </strong></p>
+            <pre><code>record, courses = Course.objects.filter(title__icontains=query) | Course.objects.filter(description__icontains=query)</code></pre>
+        </div>
     </div>
+
+    
