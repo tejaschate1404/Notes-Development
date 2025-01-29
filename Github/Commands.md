@@ -16,7 +16,7 @@
     <p> git add is an stage of before commite. this will be a verification stage. after using git add command project file will be show staged in git status </p>
      <p><strong>git add .</strong> ===== is used for staged all the changes in all file</p>
      </li>
-     <li><p><strong>git commite -m "Some Message"  </strong> ========   </p>
+     <li><p><strong>git commit -m "Some Message"  </strong> ========   </p>
     <p>for traking our recore git can not use staged staged they need proper command or message so commite will be done</p>
      </li>
 </ol>
