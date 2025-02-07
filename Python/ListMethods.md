@@ -1,4 +1,4 @@
-
+<body>
     <h1>Python List Methods</h1>
     <table>
         <tr>
@@ -18,3 +18,4 @@
         <tr><td>copy()</td><td>Returns a shallow copy of the list.</td></tr>
     </table>
 
+</body>
