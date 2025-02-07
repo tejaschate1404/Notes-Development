@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Python List Methods</title>
-    
-</head>
-<body>
+
     <h1>Python List Methods</h1>
     <table>
         <tr>
@@ -25,5 +17,4 @@
         <tr><td>reverse()</td><td>Reverses the elements in the list.</td></tr>
         <tr><td>copy()</td><td>Returns a shallow copy of the list.</td></tr>
     </table>
-</body>
-</html>
+
